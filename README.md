@@ -1,0 +1,1 @@
+Alternative : créer un composant **Modal** dans une classe avec un trigger sur une image.
